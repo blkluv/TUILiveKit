@@ -2,6 +2,7 @@
   <pre-live-view
     :user-info="userInfo"
     :room-id="givenRoomId"
+    :isShowLogo="false"
     :enable-scheduled-live="true"
     @on-create-room="handleCreateLive"
     @on-enter-room="handleEnterLive"

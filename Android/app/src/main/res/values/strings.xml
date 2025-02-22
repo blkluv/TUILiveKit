@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">TUILiveKit</string>
-    <string name="app_main_title">Tencent \n Real-Time \n Communication</string>
+    <string name="app_name">LUV NFT LIVE</string>
+    <string name="app_main_title">LUV NFT \n Real-Time \n Communication</string>
     <string name="app_user_id">UserId</string>
     <string name="app_hint_user_id">Enter a userId</string>
     <string name="app_btn_login">Log In</string>
@@ -25,8 +25,8 @@
     <string name="app_toast_login_success">Logged in</string>
     <string name="app_room_list">Live Room List</string>
     <string name="app_start_voice_live">Start Voice Live</string>
-    <string name="app_follow_count">Likes</string>
-    <string name="app_fans_count">Fans</string>
+    <string name="app_follow_count">Loved</string>
+    <string name="app_fans_count">Tribe</string>
     <string name="livekit_bottom_bar_personal_center">Me</string>
     <string name="app_change_name_title">Name</string>
     <string name="app_name_save">Save</string>
